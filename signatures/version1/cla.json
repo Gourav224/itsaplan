@@ -367,6 +367,14 @@
       "created_at": "2026-10-23T22:15:50Z",
       "repoId": 1300991151,
       "pullRequestNo": 680
+    },
+    {
+      "name": "rubengmez",
+      "id": 75077874,
+      "comment_id": 6398686128,
+      "created_at": "2026-10-25T14:10:32Z",
+      "repoId": 1300991151,
+      "pullRequestNo": 707
     }
   ]
 }
